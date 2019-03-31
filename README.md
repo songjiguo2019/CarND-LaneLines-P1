@@ -23,8 +23,6 @@ The goals / steps of this project are the following:
 
 ### Reflection
 
-**Important Clarification**: all code is in **P1.py** and the report file is **my_writeup.md**
-
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
 At the highest level, the project logically consists of 2 parts:
